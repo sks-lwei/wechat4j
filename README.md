@@ -1,4 +1,4 @@
-# wechat4j
+# wechatClient
 
 > 一个基于Web微信API的Java版微信客户端
 
