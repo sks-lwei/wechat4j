@@ -2,9 +2,6 @@
 
 > 一个基于Web微信API的Java版微信客户端
 
-作者：Allen
-
-码云主页：[https://gitee.com/hotlcc](https://gitee.com/hotlcc)
 
 [![gitee](https://img.shields.io/badge/gitee-%40hotlcc-green.svg)](https://gitee.com/hotlcc)
 [![gitee](https://img.shields.io/badge/github-%40hotlcc-blank.svg)](https://github.com/hotlcc)
